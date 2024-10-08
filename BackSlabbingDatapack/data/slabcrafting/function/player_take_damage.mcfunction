@@ -1,1 +1,2 @@
-execute as @a at @p if block ~ ~0.5 ~ minecraft:stonecutter run damage @s 1 minecraft:generic
+# execute the hurt function on the the block the player is on and the block must be a stonecutter adn give -1 health.
+execute as @a at @p if block ~ ~ ~ minecraft:stonecutter run damage @s 1 minecraft:generic
