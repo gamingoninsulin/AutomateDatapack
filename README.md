@@ -18,7 +18,7 @@
  <img src="https://github.com/gamingoninsulin/EatYourVegetables/blob/master/src/main/resources/assets/logo.png" alt="Mod Icon" width="100" hight="100"/> <br>
   Any suggestions? <br>
   Let me know on any of these platforms <br>
-  Go here to our <a href="./LICENSE.md">LICENSE</a> ! <br>
+  Go here to our <a href="https://raw.githubusercontent.com/gamingoninsulin/BackSlabbingDatapack/refs/heads/main/LICENSE">LICENSE</a> ! <br>
   <br><br>
   <p align="center">
     (Discord Server) <a href="https://discord.gg/n832bVJ">GamingOnInsulin</a> <br>
