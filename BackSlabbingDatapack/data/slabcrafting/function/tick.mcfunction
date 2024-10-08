@@ -1,0 +1,1 @@
+execute as @p at @a run function slabcrafting:player_take_damage

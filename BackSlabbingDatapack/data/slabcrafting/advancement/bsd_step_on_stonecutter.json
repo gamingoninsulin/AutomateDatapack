@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "stepping_on": {
+            "block": {
+              "blocks": "minecraft:stonecutter"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "slabcrafting:player_take_damage"
+  }
+}
