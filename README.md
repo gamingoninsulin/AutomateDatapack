@@ -15,7 +15,7 @@
 <br>
 
 <div align="right">
- <img src="[source/img/profile/profile_icon.png](https://github.com/gamingoninsulin/EatYourVegetables/blob/master/src/main/resources/assets/logo.png)" alt="Mod Icon" width="100" hight="100"/> <br>
+ <img src="https://github.com/gamingoninsulin/EatYourVegetables/blob/master/src/main/resources/assets/logo.png" alt="Mod Icon" width="100" hight="100"/> <br>
   Any suggestions? <br>
   Let me know on any of these platforms <br>
   Go here to our <a href="./LICENSE.md">LICENSE</a> ! <br>
