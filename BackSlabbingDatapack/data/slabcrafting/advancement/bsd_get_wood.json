@@ -13,6 +13,6 @@
     }
   },
   "rewards": {
-    "function": "slabcrafting:init_mesage"
+    "function": "slabcrafting:init_functions"
   }
 }
