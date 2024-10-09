@@ -1,0 +1,3 @@
+execute if block ~ ~ ~ minecraft:furnace[lit=false] at @s if block ~ ~-1 ~ minecraft:lava run function slabcrafting:smelt_type/smelt
+execute if block ~ ~ ~ minecraft:blast_furnace[lit=false] at @s if block ~ ~-1 ~ minecraft:lava run function slabcrafting:smelt_type/smelt
+execute if block ~ ~ ~ minecraft:smoker[lit=false] at @s if block ~ ~-1 ~ minecraft:lava run function slabcrafting:smelt_type/smelt

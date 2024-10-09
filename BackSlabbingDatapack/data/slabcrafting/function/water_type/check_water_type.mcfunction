@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ minecraf:cauldron if block ~ ~-1 ~ minecraft:water run setblock ~ ~ ~ minecraft:water_cauldron[level=3]

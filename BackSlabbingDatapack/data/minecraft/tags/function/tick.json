@@ -1,4 +1,8 @@
 {
   "replace": false,
-  "values": ["slabcrafting:player_take_damage"]
+  "values": [
+    "slabcrafting:player_take_damage",
+    "slabcrafting:smelt_type/check_smelt_conditions",
+    "slabcrafting:water_type/check_water_conditions"
+  ]
 }
