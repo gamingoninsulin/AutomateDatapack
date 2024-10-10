@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "slabcrafting:tick",
-    "slabcrafting:player_take_damage",
-    "slabcrafting:smelt_type/check_smelt_conditions",
-    "slabcrafting:water_type/check_water_conditions"
-  ]
-}
