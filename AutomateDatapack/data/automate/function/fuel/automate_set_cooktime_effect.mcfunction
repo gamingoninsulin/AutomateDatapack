@@ -1,3 +1,6 @@
+# Debug message
+# tellraw @a {"text":"automate_check_furnaces.mcfunction executed", "color":"green"}
+
 execute if block ~ ~ ~ furnace run data modify block ~ ~ ~ BurnTime set value 72000
 execute if block ~ ~ ~ furnace run data modify block ~ ~ ~ CookTime set value 199s
 
