@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/gamingoninsulin/AutomateDatapack/refs/heads/main/AutomateDatapack/pack.png" alt="Mod Banner Image"> 
-  <h6>Backslabbing is nice you know.</h6>  
-  <p>A datapck that adds the ability to creat over crafted slabs back to its block aslong as you have 2 slabs! <br>
+  <h6>Auromate is nice you know.</h6>  
+  <p>A datapck that adds crafting features and automation! <br>
   For Minceaft 1.21+</p>
   
 </div>
