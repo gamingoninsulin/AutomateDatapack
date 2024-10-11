@@ -8,7 +8,6 @@ scoreboard objectives add automate_pulse dummy
 scoreboard objectives add automate_timer dummy
 scoreboard objectives add automate_cook_timer dummy
 scoreboard objectives add automate_cooldown dummy
-scoreboard objectives add automate_cauldron_trigger dummy
 
 # Increment timer
 scoreboard players add @s automate_timer 1

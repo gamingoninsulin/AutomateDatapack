@@ -4,7 +4,8 @@ execute run function automate:_global/tick/automate_global_scoreboards_tick
 execute run function automate:fuel/automate_smelt_main
 execute run function automate:fuel/automate_check_furnaces
 execute run function automate:player/automate_player_enhancements
-execute run function automate:liquid/water/automate_cauldron_liquid
-execute run function automate:liquid/lava/automate_cauldron_liquid
 
-execute if score #tick automate_tick matches 0 run function automate:_global/tick/automate_block_xyz
+scoreboard players add @e[tag=automate_furnace] automate_timer 1
+
+execute as @e[tag=automate_furnace] if score @s automate_timer matches 100.. run function automate:fuel/automate_set_cooktime_effect
+execute as @e[tag=automate_furnace] if score @s automate_timer matches 100.. run scoreboard players set @s automate_timer 0
